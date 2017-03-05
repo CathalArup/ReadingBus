@@ -49,7 +49,9 @@ Other data can be included to improve the model, such as bus operations, special
 - More weather data, perhaps of high spatial resolution
 - Including events like Reading Festival in the model
 - More bus operations data and passenger surveys
+
 **Expand predictive analytics within Reading Buses...**
 - Scheduling engineers 
 - Optimising customer experience ( information about delays )
+
 **Write an R package for accessing ECMWF data? (rOpenSci)**
