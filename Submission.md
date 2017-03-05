@@ -32,6 +32,7 @@ Built a model with an out-of-sample AUC of 0.76! AUC is a measure of predictive 
 with 0.5 being random and 1 being a perfect prediction. 0.76 indicates a pretty decent result for a real-world, 
 large-scale dataset like this. Quite a bit better than we had initially anticipated! 
 
+
 ## Team name & members
 Predicting Accidents for Reading Buses
 
@@ -42,14 +43,17 @@ Predicting Accidents for Reading Buses
 * Gordon Rates - wegiangb@hotmail.co.uk
 * Laurens Geffert - laurensgeffert@gmail.com
 
+
 ## Lessons learnt
 *"How to extract MARS data via the python API, and how to deal with NetCDF format data in R.
 If we could start all over again we would force John to stay with us the weekend ;)
 More of his domain expertise on the could have benefited a lot!"* -Laurens
-*"I learnt a lot about how to use data to back up hypotheses. Coming from a strategic background, working alongside data scientists gave me my first taste of hands-on cleaning of data and using data i nreal time to inform (or invalidate) hypotheses."* - Rajesh
-Weather dataset can be very varied and correlate to even bus crashes  - Gordon
-There is so much potential for interdisciplinary collaborations. Everybody had a different background and skills which were all important in getting the analysis done! - Fiona
 
+*"I learnt a lot about how to use data to back up hypotheses. Coming from a strategic background, working alongside data scientists gave me my first taste of hands-on cleaning of data and using data i nreal time to inform (or invalidate) hypotheses."* - Rajesh
+
+*"Weather dataset can be very varied and correlate to even bus crashes."*  - Gordon
+
+*"There is so much potential for interdisciplinary collaborations. Everybody had a different background and skills which were all important in getting the analysis done!"* - Fiona
 
 
 ## Future developments
